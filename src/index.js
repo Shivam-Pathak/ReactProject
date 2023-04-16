@@ -4,6 +4,16 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+//Including Bootstrap
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+//Including JS for Bootstrap
+import 'jquery/dist/jquery.min.js';
+import 'popper.js/dist/umd/popper.min.js';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>

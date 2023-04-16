@@ -1,0 +1,27 @@
+.card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,.1);
+    margin: 1rem;
+  }
+  
+  .card-body {
+    padding: 1rem;
+  }
+  
+  .card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+  
+  .card-link {
+    color: #007bff;
+    text-decoration: none;
+    margin-right: 1rem;
+  }
+  
+  .card-link:hover {
+    text-decoration: underline;
+  }
+  
